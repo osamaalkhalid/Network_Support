@@ -28,3 +28,11 @@ You have to add the app to firebase and allow authentication with email and pass
 **#Secondly**<br>
 you have to add database in firestore <br>
 with collection name **#message** and 3 **#Documents**   **#msg** ,**#sender** , **#time**
+
+
+## **Powered By**
+<p>Firebase,Flutter,Dart</p>
+<img src="https://gelecegiyazanlar.turkcell.com.tr/sites/default/files/blog/content/2020/image-firebase0001_0.png" width="300" />
+<img src="http://www.gamzesirakaya.com/wp-content/uploads/2020/05/0_0vUAU9_O_YCQd-4f-2.jpg" width="300" />
+<img src="https://miro.medium.com/max/1179/1*96UcmD4sxlB8on8LcsEteA.png" width="300" />
+
