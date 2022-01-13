@@ -1,17 +1,17 @@
 # Network_Support
 A program for the communication company to help customers communicate with the support team, solve communication problems, search and register an account
 
-#Powered By
-https://youtu.be/1DDy6ULqZWA
-[![N|Solid](https://user-images.githubusercontent.com/86790667/149276936-63d106e1-c37d-469a-a4cb-0b799ed8fae7.png)](http://afak.epizy.com/)
- 
+# Created By
+  <a href="http://afak.epizy.com/"><img src="https://user-images.githubusercontent.com/86790667/149276936-63d106e1-c37d-469a-a4cb-0b799ed8fae7.png" width="100px" /></a>
+# Watch The Video To See All Feutures
+  <a href="https://youtu.be/1DDy6ULqZWA"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/2560px-YouTube_Logo_2017.svg.png" width="300px" /></a>
+
+  
 # Preview
 
 ![1](https://user-images.githubusercontent.com/86790667/149275639-86db6c7c-734c-4af0-8103-147cbc3c0d42.png)
 ![222](https://user-images.githubusercontent.com/86790667/149275689-ad9c0a14-7e5b-49c3-84cd-6b4a4e7f32cd.png)
-
 ![333](https://user-images.githubusercontent.com/86790667/149275731-18750dc1-ee75-40c6-bcdd-c561ac833e33.png)
-
 ![44](https://user-images.githubusercontent.com/86790667/149276767-ae987878-e3a6-4813-a325-b782f0a9e190.png)
 ![555](https://user-images.githubusercontent.com/86790667/149276774-55da98df-eac6-407a-867d-152fe922aaa4.png)
 ![666](https://user-images.githubusercontent.com/86790667/149276780-aaed00b6-0649-4df8-a287-452b32fa0e0e.png)
