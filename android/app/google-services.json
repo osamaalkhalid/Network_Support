@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "899823757721",
+    "project_id": "syrian-net",
+    "storage_bucket": "syrian-net.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899823757721:android:68c9bd4cd24c6febbecb08",
+        "android_client_info": {
+          "package_name": "com.example.syrian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899823757721-vka6impvurfb1vppgt37330lgg8i018l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3bAKhe2RCv3027cIH7ogf98LoLYs0jdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899823757721-vka6impvurfb1vppgt37330lgg8i018l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
